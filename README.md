@@ -1,5 +1,5 @@
 # Install
 
 ```sh
-cargo install --git git@github.com:uintptr/totem.git
+cargo install --git https://github.com/uintptr/totem.git
 ```
